@@ -1,4 +1,4 @@
-## Welcome to Isolated.
+### Welcome to Isolated.
 
 <!--
 **Here are some ideas to get you started:**
